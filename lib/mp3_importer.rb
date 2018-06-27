@@ -33,10 +33,4 @@ class MP3Importer
     end 
   end 
   
-  # def self.all 
-  #   binding.pry 
-  #   self 
-  #   @@all 
-  # end 
-  
 end 
